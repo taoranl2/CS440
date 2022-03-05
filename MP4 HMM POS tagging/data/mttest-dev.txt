@@ -1,0 +1,2 @@
+cow=A cat=B dog=D
+hawk=A hawk=B hawk=D

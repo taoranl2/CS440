@@ -1,0 +1,10 @@
+cat=A cat=B cat=D
+cat=A cat=C cat=D
+dog=A dog=B dog=D
+dog=A dog=C dog=D
+horse=A horse=B horse=D
+horse=A horse=C horse=D
+cow=A cow=B cow=D
+cow=A cow=C cow=D
+cat=A dog=B cow=D
+pit=A pat=C pin=D
